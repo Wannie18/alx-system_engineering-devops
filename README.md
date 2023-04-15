@@ -1,1 +1,1 @@
-This project runs shell basic scripts
+Repo for shell basics and shell scripts
