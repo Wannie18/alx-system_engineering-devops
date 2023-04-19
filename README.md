@@ -1,1 +1,1 @@
-Repo for shell basics and shell scripts
+This project creates scripts with shell input/output and redirections
